@@ -171,4 +171,4 @@ Join the [Discord Community](https://discord.gg/pZEJMCTzA3) for real-time help a
 
 ## License
 
-MIT
+[MIT](LICENSE)
